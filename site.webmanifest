@@ -1,0 +1,23 @@
+{
+    "name": "Rnsync.my.id",
+    "short_name": "RNS SYNC",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaVpSBWYxvGLBfAwrTNoyEHJC7Ca1Ziy2-qXFh4424vbkeZIRKQ6ELwrVUUp7V2NYfFeDc4TIJ0WBphcOBqTJJd0HkHWsK4ktCezThoEqvonJmr2IPZsSlXnwQ9ctk9u_RC3Q-5m7gyZFwyD4csRbk-yLLuC4Ye0o8Ua3m6eTc86NzbLpi53-i_Qqkcmk/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq-R1_c-x8yyB34aFYcQnU5mAKc4vjAXcI66MM9yAxdeyGuSrcvNtk55h13twT7J9Qvrh3tNMLlJQmLE20R1eXyaL07e5slPPfL_L4NBGpwcl6rjJDTp1rexBpcHtts8RlY8bUZpIyVyS8iD77hkgufI8utXNajLNHoYkTnRno8PUHG9XQ_EJUBFujMWU/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.rnsync.my.id"
+}
